@@ -1,16 +1,13 @@
 # textlint-rule-prh-issues-31
 
-Reproduce
-
-## Install
-
-Install with [npm](https://www.npmjs.com/):
-
-    npm install textlint-rule-prh-issues-31
+Aim to Reproduce https://github.com/textlint-rule/textlint-rule-prh/issues/31
 
 ## Usage
 
-- [ ] Write usage instructions
+    yarn
+    yarn test
+    # or
+    npm test
 
 ## Changelog
 
