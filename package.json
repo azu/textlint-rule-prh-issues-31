@@ -1,0 +1,32 @@
+{
+  "name": "textlint-rule-prh-issues-31",
+  "version": "1.0.0",
+  "description": "Reproduce",
+  "homepage": "https://github.com/azu/textlint-rule-prh-issues-31",
+  "bugs": {
+    "url": "https://github.com/azu/textlint-rule-prh-issues-31/issues"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "main": "lib/textlint-rule-prh-issues-31.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/textlint-rule-prh-issues-31.git"
+  },
+  "scripts": {
+    "test": "textlint --config ./docs/config/textlint.json docs/contents"
+  },
+  "dependencies": {
+    "textlint": "^10.1.4",
+    "textlint-rule-prh": "^5.0.1"
+  }
+}
